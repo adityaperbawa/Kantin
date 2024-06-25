@@ -1,0 +1,46 @@
+*{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,7,92,1) 22%, rgba(0,212,255,1) 100%);
+}
+
+header {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #ced4da;
+    padding: 20px ;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.row{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.card {
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.btn-group {
+    margin-top: 10px;
+}
+
+.btn-group .btn {
+    margin-right: 5px;
+}
